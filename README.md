@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+# MoonSeok Yang
+ 
+Backend Developer | System Architecture Enthusiast
+ 
+## Current Focus
+ 
+- Spring Boot
+- WebSocket
+- Docker
+ 
+## Main Projects
+ 
+### OpenSource Manager
+
 <!--
 **schware/schware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
