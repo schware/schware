@@ -21,7 +21,11 @@ Backend Developer | System Architecture Enthusiast
   - Frontend : React + TypeScript vs Flutter
   - Client : React + TypeScript vs Flutter
   - DB : Postgres
-  
+
+### Development Tools
+- **Database Design**
+  - draw.io
+  - DBeaver Community
 ## 모두의 창업 2기 도전기 작성
 
 
