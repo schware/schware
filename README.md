@@ -6,9 +6,11 @@ Backend Developer | System Architecture Enthusiast
  
 ## Current Focus
  
-- Spring Boot
+- ReatAPI
 - WebSocket
+- Socket Server
 - Docker
+  
  
 ## Main Projects
 
@@ -20,14 +22,15 @@ Backend Developer | System Architecture Enthusiast
   - Core Business Back-End : Java + Spring Boot + Jetty + WebSocket  
   - Frontend : React + TypeScript vs Flutter
   - Client : React + TypeScript vs Flutter
-  - DB : Postgres
+  - DB : Postgres + JSONB
 
 ### Development Tools
 - **Database Design**
   - draw.io
   - DBeaver Community
 ## 모두의 창업 2기 도전기 작성
-
+- 아이템을 찾기
+- 문서작업 완료 하기
 
 
 <!--
