@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# MoonSeok Yang
+# Sun & Moon
  
 Backend Developer | System Architecture Enthusiast
  
