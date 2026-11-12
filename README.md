@@ -27,4 +27,4 @@ AI Agent 와 함께 개발할 때, 사람의 요청·AI 의 제안·사람의 �
 - **Backend**: Java 21, Spring Boot 3, Netty, Go, REST, WebSocket, gRPC
 - **Data**: PostgreSQL (JSONB, postgres_fdw), Redis
 - **Frontend · Client**: React, TypeScript, Electron
-- **운영**: Docker, Debian, nginx
+- **운영**: Docker, Debian, nginx, GitHub Actions, GHCR
