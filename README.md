@@ -18,7 +18,9 @@ AI Agent 와 함께 개발할 때, 사람의 요청·AI 의 제안·사람의 �
 ### [aidev-KEDP001](https://github.com/schware/aidev-KEDP001)
 한국 경제 데이터 플랫폼. 한국은행 ECOS·KOSIS·공공데이터포털의 공식 통계를 수집해 보여 줍니다.
 위 규칙을 적용해 만든 프로젝트입니다.
-`Go` `Rust` `gRPC` `TypeScript` `PostgreSQL` `Docker`
+배포는 세 가지로 나누어 운영합니다. 개발 서버 build, GitHub Actions build + GHCR(최근 5개 보관), GitHub Actions build + artifact(14일 안에 확정).
+어느 방식이든 PR 검사를 통과해 main에 merge된 commit만 배포합니다.
+`Go` `Rust` `gRPC` `TypeScript` `PostgreSQL` `Docker` `GitHub Actions` `GHCR`
 
 ## 기술
 
